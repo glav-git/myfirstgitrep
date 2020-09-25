@@ -1,0 +1,2 @@
+# myfirstgitrep
+tupa pa prikolu
